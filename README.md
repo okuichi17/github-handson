@@ -1,4 +1,5 @@
 # github-handson
+
 import org.w3c.dom.ls.LSOutput;
 
 import javax.xml.namespace.QName;
@@ -7,7 +8,7 @@ public class Main {
     public static void main(String[] args) {
 
         System.out.println("選手");
-        System.out.println("----------------------------------------------------------------------------------------");
+        System.out.println("--------------------------------------------------------------------------------------");
 
         List<PlayerInfo> players = new ArrayList<>();
         players.add(new PlayerInfo("1","中村航輔","ナカムラコウスケ","ポルティモネンセ/ポルトガル"));
